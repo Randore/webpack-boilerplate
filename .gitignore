@@ -57,3 +57,4 @@ typings/
 # dotenv environment variables file
 .env
 
+id_randore.pub
